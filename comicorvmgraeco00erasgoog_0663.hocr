@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comicorvmgraeco00erasgoog_0663.png"; bbox 0 0 1335 3146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 285 420 1178 662">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 285 420 1178 662">
+     <span class='ocr_line' id='line_1_1' title="bbox 285 420 1178 662; baseline 0 2484"><span class='ocrx_word' id='word_1_1' title='bbox 285 420 1178 662; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 293 697 1233 848">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 293 697 1233 848">
+     <span class='ocr_line' id='line_1_2' title="bbox 293 697 1233 770; baseline 0.007 -25"><span class='ocrx_word' id='word_1_2' title='bbox 293 701 401 760; x_wconf 66' lang='lat' dir='ltr'>Ego</span> <span class='ocrx_word' id='word_1_3' title='bbox 418 710 671 745; x_wconf 80' lang='lat' dir='ltr'>rumorem</span> <span class='ocrx_word' id='word_1_4' title='bbox 694 701 849 762; x_wconf 75' lang='lat' dir='ltr'>patui</span> <span class='ocrx_word' id='word_1_5' title='bbox 870 700 1022 751; x_wconf 74' lang='lat' dir='ltr'>facio</span> <span class='ocrx_word' id='word_1_6' title='bbox 1045 697 1176 758; x_wconf 78' lang='lat' dir='ltr'>,dum</span> <span class='ocrx_word' id='word_1_7' title='bbox 1232 767 1233 770; x_wconf 8' lang='grc' dir='ltr'><strong>Ἴ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 349 773 1233 848; baseline 0.006 -25"><span class='ocrx_word' id='word_1_8' title='bbox 349 774 406 823; x_wconf 83' lang='lat' dir='ltr'>fit</span> <span class='ocrx_word' id='word_1_9' title='bbox 423 790 597 823; x_wconf 81' lang='lat' dir='ltr'>tumen</span> <span class='ocrx_word' id='word_1_10' title='bbox 611 780 701 839; x_wconf 78' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_11' title='bbox 721 777 1013 848; x_wconf 64' lang='lat' dir='ltr'><strong>impleam.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1232 773 1233 776; x_wconf 28' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1232 307 1233 894">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1232 307 1233 894">
+     <span class='ocr_line' id='line_1_4' title="bbox 1232 307 1233 894; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 1232 307 1233 894; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1232 1053 1234 2251">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1232 1053 1234 2251">
+     <span class='ocr_line' id='line_1_5' title="bbox 1232 1053 1234 2251; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 1232 1053 1234 2251; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comicorvmgraeco00erasgoog_0255.png"; bbox 0 0 1335 3146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 205 278 1084 397">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 205 278 1084 397">
+     <span class='ocr_line' id='line_1_1' title="bbox 208 278 319 313; baseline 0.036 -4"><span class='ocrx_word' id='word_1_1' title='bbox 208 278 319 313; x_wconf 47' lang='lat'><em>200⁷</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 205 347 1084 397; baseline 0.014 -13"><span class='ocrx_word' id='word_1_2' title='bbox 205 347 434 397; x_wconf 52' lang='lat' dir='ltr'><em>«zea-«f</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 450 352 543 387; x_wconf 42' lang='grc' dir='ltr'><em>με</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 560 351 787 391; x_wconf 58' lang='lat' dir='ltr'><em>“ee-«4</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 800 355 1084 396; x_wconf 55' lang='lat' dir='ltr'><em>maufi—</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 205 403 1080 499">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 205 403 1080 499">
+     <span class='ocr_line' id='line_1_3' title="bbox 205 403 1080 499; baseline 0.008 -27"><span class='ocrx_word' id='word_1_6' title='bbox 205 403 332 472; x_wconf 65' lang='grc' dir='ltr'><em>Ξῖθυς</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 347 420 593 486; x_wconf 62' lang='lat' dir='ltr'><em>mendum</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 604 421 856 499; x_wconf 60' lang='grc' dir='ltr'><em>λςκμςζτων</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 865 429 1080 491; x_wconf 56' lang='grc' dir='ltr'><strong><em>μμοαὶὶ-</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 184 492 453 544">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 184 492 453 544">
+     <span class='ocr_line' id='line_1_4' title="bbox 184 492 453 544; baseline 0 -1"><span class='ocrx_word' id='word_1_10' title='bbox 184 514 193 521; x_wconf 59' lang='lat'>²</span> <span class='ocrx_word' id='word_1_11' title='bbox 263 492 453 544; x_wconf 58' lang='lat' dir='ltr'><strong><em>wsdff.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 152 562 1090 697">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 152 562 1090 697">
+     <span class='ocr_line' id='line_1_5' title="bbox 152 562 1090 644; baseline 0.009 -24"><span class='ocrx_word' id='word_1_12' title='bbox 152 582 158 587; x_wconf 82' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 203 578 351 633; x_wconf 62' lang='lat' dir='ltr'><em>Mores</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 364 569 545 635; x_wconf 67' lang='lat' dir='ltr'><em>futura</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 582 562 932 639; x_wconf 55' lang='lat' dir='ltr'><em>uxorie&#39;aetmfcr</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 986 580 1090 644; x_wconf 55' lang='lat' dir='ltr'><em>opi*</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 188 646 374 697; baseline 0.011 -2"><span class='ocrx_word' id='word_1_17' title='bbox 188 678 191 681; x_wconf 97' lang='lat'>-</span> <span class='ocrx_word' id='word_1_18' title='bbox 269 646 374 697; x_wconf 70' lang='lat' dir='ltr'><em>bn».</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

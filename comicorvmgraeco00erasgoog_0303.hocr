@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comicorvmgraeco00erasgoog_0303.png"; bbox 0 0 1335 3146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 260 529 1122 657">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 260 529 1122 657">
+     <span class='ocr_line' id='line_1_1' title="bbox 260 529 1122 657; baseline 0.017 -24"><span class='ocrx_word' id='word_1_1' title='bbox 260 551 278 572; x_wconf 48' lang='lat'><strong>⁹</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 293 529 424 636; x_wconf 55' lang='lat'>1315:</span> <span class='ocrx_word' id='word_1_3' title='bbox 422 530 588 652; x_wconf 49' lang='lat' dir='ltr'>Pedalie</span> <span class='ocrx_word' id='word_1_4' title='bbox 598 583 741 654; x_wconf 65' lang='lat' dir='ltr'>atqiee</span> <span class='ocrx_word' id='word_1_5' title='bbox 748 555 1122 657; x_wconf 60' lang='lat' dir='ltr'>mifafnn.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 282 709 1264 1088">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 282 709 1264 1088">
+     <span class='ocr_line' id='line_1_2' title="bbox 285 709 1159 780; baseline 0.018 -16"><span class='ocrx_word' id='word_1_6' title='bbox 285 709 1159 780; x_wconf 49' lang='grc' dir='ltr'>ὀκεεὲε-εεὰὲεὰ-κεκε-ε-ε-αῑτ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 282 783 1264 884; baseline 0.008 -34"><span class='ocrx_word' id='word_1_7' title='bbox 282 783 453 864; x_wconf 56' lang='grc' dir='ltr'>ὅὲυψ</span> <span class='ocrx_word' id='word_1_8' title='bbox 475 784 886 865; x_wconf 49' lang='lat' dir='ltr'>&amp;mamaeae</span> <span class='ocrx_word' id='word_1_9' title='bbox 914 794 1168 877; x_wconf 52' lang='grc' dir='ltr'>θῡμεζυμ·</span> <span class='ocrx_word' id='word_1_10' title='bbox 1257 877 1264 884; x_wconf 19' lang='grc' dir='ltr'><em>α</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 283 889 1172 1088; baseline 0.016 -98"><span class='ocrx_word' id='word_1_11' title='bbox 283 889 493 1088; x_wconf 47' lang='lat' dir='ltr'>⁴³⁶5}ss</span> <span class='ocrx_word' id='word_1_12' title='bbox 527 943 600 995; x_wconf 62' lang='lat' dir='ltr'>ssu</span> <span class='ocrx_word' id='word_1_13' title='bbox 628 941 791 1015; x_wconf 47' lang='lat' dir='ltr'>aaa}</span> <span class='ocrx_word' id='word_1_14' title='bbox 808 940 939 1026; x_wconf 52' lang='lat' dir='ltr'>begu}</span> <span class='ocrx_word' id='word_1_15' title='bbox 978 933 1172 1019; x_wconf 55' lang='lat' dir='ltr'>saga..-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 929 1822 946 1933">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 929 1822 946 1933">
+     <span class='ocr_line' id='line_1_5' title="bbox 929 1822 946 1933; textangle 90"><span class='ocrx_word' id='word_1_16' title='bbox 929 1822 946 1933; x_wconf 40' lang='grc' dir='ltr'>κθ)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
